@@ -19,6 +19,9 @@ import pytest
 @pytest.mark.skip
 def test_firstprogram():
     print("hello")
+    print("git1")
+    print("git2")
+    print("git3")
 @pytest.mark.xfail
 def test_secondgreetcreditcard():
     print("good morning")
