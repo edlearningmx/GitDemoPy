@@ -1,0 +1,39 @@
+2020-04-22 20:41:59,131 :INFO :pyTestDemo.test_logging :information statement
+2020-04-22 20:41:59,131 :WARNING :pyTestDemo.test_logging :something is in warning mode
+2020-04-22 20:41:59,131 :ERROR :pyTestDemo.test_logging :a mayor error has happened
+2020-04-22 20:41:59,132 :CRITICAL :pyTestDemo.test_logging :critical issue
+2020-04-22 20:43:39,961 :DEBUG :pyTestDemo.test_logging :a debug statement is executed
+2020-04-22 20:43:39,961 :INFO :pyTestDemo.test_logging :information statement
+2020-04-22 20:43:39,961 :WARNING :pyTestDemo.test_logging :something is in warning mode
+2020-04-22 20:43:39,961 :ERROR :pyTestDemo.test_logging :a mayor error has happened
+2020-04-22 20:43:39,961 :CRITICAL :pyTestDemo.test_logging :critical issue
+2020-04-23 01:35:46,524 :INFO :pyTestDemo.baseClass :rahul
+2020-04-23 01:37:22,457 :INFO :pyTestDemo.baseClass :rahul
+2020-04-23 01:38:46,751 :INFO :pyTestDemo.baseClass :rahul
+2020-04-23 01:38:58,415 :INFO :pyTestDemo.baseClass :rahul
+2020-04-23 01:44:04,707 :INFO :pyTestDemo.baseClass :rahul
+2020-04-23 01:44:04,707 :INFO :pyTestDemo.baseClass :rahulshettyacademy.com
+2020-04-23 01:44:16,013 :INFO :pyTestDemo.baseClass :rahul
+2020-04-23 01:44:16,013 :INFO :pyTestDemo.baseClass :rahulshettyacademy.com
+2020-04-23 01:45:01,152 :INFO :pyTestDemo.baseClass :rahul
+2020-04-23 01:45:01,152 :INFO :pyTestDemo.baseClass :rahulshettyacademy.com
+2020-04-23 01:45:07,512 :INFO :pyTestDemo.baseClass :rahul
+2020-04-23 01:45:07,512 :INFO :pyTestDemo.baseClass :rahulshettyacademy.com
+2020-04-23 01:47:09,294 :INFO :test_editProfile :rahul
+2020-04-23 01:47:09,294 :INFO :test_editProfile :rahulshettyacademy.com
+2020-04-23 01:48:28,001 :INFO :test_editProfile :rahul
+2020-04-23 01:48:28,001 :INFO :test_editProfile :rahulshettyacademy.com
+2020-04-23 01:49:44,103 :INFO :test_editProfile :rahul
+2020-04-23 01:49:44,103 :INFO :test_editProfile :rahulshettyacademy.com
+2020-04-23 01:49:44,131 :DEBUG :pyTestDemo.test_logging :a debug statement is executed
+2020-04-23 01:49:44,131 :INFO :pyTestDemo.test_logging :information statement
+2020-04-23 01:49:44,131 :WARNING :pyTestDemo.test_logging :something is in warning mode
+2020-04-23 01:49:44,131 :ERROR :pyTestDemo.test_logging :a mayor error has happened
+2020-04-23 01:49:44,131 :CRITICAL :pyTestDemo.test_logging :critical issue
+2020-04-23 08:00:05,383 :INFO :test_editProfile :rahul
+2020-04-23 08:00:05,383 :INFO :test_editProfile :rahulshettyacademy.com
+2020-04-23 08:00:05,396 :DEBUG :pyTestDemo.test_logging :a debug statement is executed
+2020-04-23 08:00:05,396 :INFO :pyTestDemo.test_logging :information statement
+2020-04-23 08:00:05,396 :WARNING :pyTestDemo.test_logging :something is in warning mode
+2020-04-23 08:00:05,396 :ERROR :pyTestDemo.test_logging :a mayor error has happened
+2020-04-23 08:00:05,396 :CRITICAL :pyTestDemo.test_logging :critical issue
